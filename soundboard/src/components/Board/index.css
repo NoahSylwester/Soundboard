@@ -1,0 +1,18 @@
+.Board {
+    padding: 15px;
+    font-size: 1.2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+h1 {
+    cursor: default;
+    background: rgb(255, 221, 142);
+    width: 50%;
+    border-radius: 7px;
+    border: 1px solid black;
+}
+.soundContainer {
+    display: flex;
+    justify-content: center;
+}

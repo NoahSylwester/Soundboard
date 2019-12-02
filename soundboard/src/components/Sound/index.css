@@ -1,0 +1,28 @@
+.sound {
+    background: rgb(57, 241, 140);
+    border: 1px solid black;
+    border-radius: 7px;
+    padding: 20px;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    transition: 0.2s;
+}
+.sound:hover {
+    background: rgb(255, 161, 20);
+    color: white;
+    border: 1px solid white;
+    border-radius: 8px;
+}
+h3 {
+    cursor: default;
+}
+button {
+    width: 50px;
+    font-family: 'Bangers', cursive;
+    padding: 2px;
+}
+button:hover {
+    color: orange;
+}
